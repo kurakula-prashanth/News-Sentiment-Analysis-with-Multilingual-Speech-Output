@@ -26,7 +26,7 @@ A requirements.txt file is included to simplify dependency installation:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/news-sentiment-analysis.git
+git clone https://github.com/kurakula-prashanth/news-sentiment-analysis.git
 cd news-sentiment-analysis
 
 # Install dependencies
