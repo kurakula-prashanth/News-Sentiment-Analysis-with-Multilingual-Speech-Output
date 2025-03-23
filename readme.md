@@ -4,6 +4,10 @@
 
 This project is a news sentiment analysis tool that scrapes recent news articles about a specified company, analyzes the sentiment of those articles, extracts key topics, and provides a comprehensive analysis. The tool can then deliver this analysis as speech output in multiple Indian languages (Telugu, Hindi, English, Malayalam, Tamil, or Kannada).
 
+## I have deployed this project in Hugging Face
+For deploying in Hugging Face I have created a seaparate files u can download the files from there
+The project is deployed and can be accessed [here](https://huggingface.co/spaces/kurakula-Prashanth2004/News-Sentiment-Analysis-with-Multilingual-Speech-Output).
+
 ## Features
 
 - **News Scraping**: Scrapes recent news articles from Bing search results
