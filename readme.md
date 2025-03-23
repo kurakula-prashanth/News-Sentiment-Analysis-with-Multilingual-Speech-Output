@@ -26,8 +26,8 @@ A requirements.txt file is included to simplify dependency installation:
 
 ```bash
 # Clone the repository
-git clone https://github.com/kurakula-prashanth/news-sentiment-analysis.git
-cd news-sentiment-analysis
+git clone https://github.com/kurakula-prashanth/multilingual-news-sentiment-analysis.git
+cd multilingual-news-sentiment-analysis
 
 # Install dependencies
 pip install -r requirements.txt
