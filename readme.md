@@ -203,13 +203,21 @@ This project is available for personal and educational use.
 - FastAPI for the backend API
 - Plotly for data visualization
 
-## Resuls
-- ![Home Page](https://github.com/user-attachments/assets/3ceec888-737a-46b4-a89b-e83c478b3afc)
-- ![Analyszed Results](https://github.com/user-attachments/assets/c95fc892-f451-40a4-bafd-7fcb8a3deb20)
-- ![Articles Retrived](https://github.com/user-attachments/assets/c8617eb6-4572-4ba0-9000-2afed7fdf1d5)
-- ![Audio Language Selection for Summary of Results](https://github.com/user-attachments/assets/4a8d085f-edfa-4ff2-aca7-a317efa89130)
-- ![Result based on selected language](https://github.com/user-attachments/assets/6b22a193-8804-4c85-907d-cb43dcb1b595)
+# Results
 
+Here are the various results of the system:
 
+## Home Page
+![Home Page](https://github.com/user-attachments/assets/3ceec888-737a-46b4-a89b-e83c478b3afc)
 
+## Analyzed Results
+![Analyzed Results](https://github.com/user-attachments/assets/c95fc892-f451-40a4-bafd-7fcb8a3deb20)
 
+## Articles Retrieved
+![Articles Retrieved](https://github.com/user-attachments/assets/c8617eb6-4572-4ba0-9000-2afed7fdf1d5)
+
+## Audio Language Selection for Summary of Results
+![Audio Language Selection](https://github.com/user-attachments/assets/4a8d085f-edfa-4ff2-aca7-a317efa89130)
+
+## Results Based on Selected Language
+![Results Based on Selected Language](https://github.com/user-attachments/assets/6b22a193-8804-4c85-907d-cb43dcb1b595)
